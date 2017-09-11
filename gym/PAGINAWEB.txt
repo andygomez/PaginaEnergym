@@ -3,8 +3,8 @@ https://energym3000.000webhostapp.com/
 
 https://files.000webhost.com/
 
-energym3000
-
+usuario: energym3000
+clave: ddadyandy
 MANUAL
 https://www.000webhost.com/forum/t/getting-started/16043
 <img width="32" height="32" src="http://www.goldsgym.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" alt="Follow Us on Facebook" title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade">
